@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "the absolute pathname for the current working directory is" echo "$(pwd)"
