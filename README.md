@@ -1,0 +1,1 @@
+the repository is where i am completing my assingnments on scripts creation for shell basics.
