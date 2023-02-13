@@ -1,1 +1,1 @@
-this is a readme for the shell redirection directory
+\# this is a script for testing my alx projects
